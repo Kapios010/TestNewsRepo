@@ -4,5 +4,8 @@
   <AUTHOR>Kapios010</AUTHOR>
   <DATE>DD-MM-YYYY hh:mm</DATE>
   <IMGURL>https://i.postimg.cc/5yxqWj7f/obraz-2021-01-26-113328.png</IMGURL>
-  <CONTENT>This is a text with words that should wrap but not with words but characters so it's not smart wrapping like in MS Word</CONTENT>
+  <CONTENT>Hello World 1
+  Hello world multiline
+  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  Wrapping demo above</CONTENT>
 </MAIN>
